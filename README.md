@@ -4,7 +4,7 @@ Case study made as a capstone project for the Google Data Analyst Certificate
 
 # 1.0 Introduction
 
-We are a data analyst on a bike-share company named Cyclist which is based in Chicago, IL. It was launched in 2016 and has since then grown exponetially. It has a fleet of 5,824 bicycles that are geotracked and locked into a network of 692 stations across Chicago.  
+We are a data analyst on a bike-share company named Cyclist which is based in Chicago, IL. It was launched in 2016 and has since then grown exponentially. It has a fleet of 5,824 bicycles that are geotracked and locked into a network of 692 stations across Chicago.  
 The company has flexibility in its pricing plans with them being: single-ride passes, full-day passes, and annual memberships. Customers who purchase single-ride or full-day passes are referred to as casual riders. Customers who purchase annual memberships are Cyclistic members. 
 
 # 2.0 Scenario
