@@ -18,17 +18,17 @@ How do annual members and casual riders use Cyclistic bikes differently?
 
 # 4.0 Data
 
-The analysis was made using all rides made in 2019. It was a total of 3,818,004 trips made.
+The analysis was made using all rides made in 2019. There were a total of 3,818,004 trips made.
 
 # 5.0 Data Handle
 
 I was asked to analyze 12 months of data in order to come up with some insights.  
-The data was gotten from the link: https://divvy-tripdata.s3.amazonaws.com/index.html  
-I used the files from 2019. Those are divide in quarters.
+The data was obtained from the link: https://divvy-tripdata.s3.amazonaws.com/index.html  
+I used the files from 2019. Those are divided in quarters.
 
 # 6.0 Used Tools
 
-Since the files's size is too big to handle on Excel/Google Sheets, I ended up using SQL to analyze the Data.  
+Since the file's size is too big to handle on Excel/Google Sheets, I ended up using SQL to analyze the Data.  
 To concatenate the data and perform some data cleaning it was used PYTHON, specifically the PANDAS library.  
 To share the insights generated on SQL the visualization tool used was TABLEAU
 
