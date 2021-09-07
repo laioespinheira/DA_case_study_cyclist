@@ -1,4 +1,4 @@
-# Data Analust Case Study - Cyclist bike-share 
+# Data Analyst Case Study - Cyclist bike-share 
 
 Case study made as a capstone project for the Google Data Analyst Certificate
 
