@@ -2,6 +2,9 @@
 
 Case study made as a capstone project for the Google Data Analyst Certificate
 
+![bike-share](https://user-images.githubusercontent.com/67356304/134809125-825f7e37-bc7d-49e3-a9fb-277d2cb0bfcd.jpg)
+
+
 # 1.0 Introduction
 
 We are a data analyst on a bike-share company named Cyclist which is based in Chicago, IL. It was launched in 2016 and has since then grown exponentially. It has a fleet of 5,824 bicycles that are geotracked and locked into a network of 692 stations across Chicago.  
